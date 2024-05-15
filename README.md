@@ -138,6 +138,8 @@ Regarding the administrative burden, it seems that it has been displaced rather 
 
 <h2>How could Parcoursup be used differently, to achieve more equity?</h2>
 
+![different-types-of-equity](https://github.com/IlseAmeyalli/desktop-tutorial/assets/169658751/06218017-5f40-4f1f-936c-35dd3c4989ee)
+
 In the end, Parcousup is only an algorithm, with specific chosen parameters driving certain outcomes. Yet, an algorithm only is an instrumentalisation of a political public action, through technical choices (<a href="https://laviedesidees.fr/Parcoursup-ou-la-selection-par-les-algorithmes">Tiberj, 2021</a>). Parcousup solely reflects the choice of the decision-makers behind its conception; yet, there could be other ways to operate this algorithm, producing different results of higher education admission for students.
 
 This reflection drives the research of sociologist Vincent Tiberj. When French university Sciences Po Bordeaux asked him to parameter an alternative algorithm, V. Tiberj chose to rely on an algorithm which would use the grade average gap (“écarts à la moyenne”) between students, over the current raw grades (“notes brutes”) parameters used by the Parcoursup OAD. Sciences Po Bordeaux uses the Parcousup algorithm to pre-select the candidates deemed “admissible”. Only after this step would there be a qualitative reading of the pre-selected students’ application (motivation letter, extra-academic activities).
