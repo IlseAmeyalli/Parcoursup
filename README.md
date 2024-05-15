@@ -24,11 +24,11 @@ Parcoursup is based on the algorithm known as “stable marriage” developed by
 
 The Parcoursup platform enables students to apply to more than 23,000 higher education programs.
 Within the framework of a single dossier, students can use a single application to (République Française, 2024):
-consult the full range of post-baccalaureate programs on offer;
-find the information such as: course status, tuition fees, criteria for analyzing applications, demand levels and success/employment rates;
-assemble the application, which will then be sent to the programs selected.
-freely formulate your wishes for the programs that interest them;
-receive admission offers and choose the school. </p>
+ <li>consult the full range of post-baccalaureate programs on offer;
+ <li>find the information such as: course status, tuition fees, criteria for analyzing applications, demand levels and success/employment rates;
+ <li>assemble the application, which will then be sent to the programs selected.
+ <li>freely formulate your wishes for the programs that interest them;
+ <li>receive admission offers and choose the school. </p>
 
 ![voeux-apprentissage-sur-parcoursup](https://github.com/IlseAmeyalli/desktop-tutorial/assets/169658751/5edce0c6-0507-4654-9403-94a4b216ffe7)
 
