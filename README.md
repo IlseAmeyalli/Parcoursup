@@ -44,6 +44,10 @@ Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 201
 <p>Once applications and wishes have been submitted by students, universities give a ranking of the students that expressed interest in them. For each program, Parcoursup sends daily admission proposals to some of the applicants who have confirmed a wish for this program and who have been selected by the wish review committee at the end of its review of applications. Admission proposals are sent in the order of call, calculated by the Parcoursup algorithm. The order of call takes into account, based on the pedagogical ranking, the legal requirements, which are materialized in the quotas set by rectors (Ministère de l’Enseignement Supérieur et de la recherche, 2018).</p>
 
 <p><strong>Changes</strong> </p>
+
+![change-management](https://github.com/IlseAmeyalli/desktop-tutorial/assets/169658751/258216a2-74df-417e-a65f-d8f84f2a7679)
+
+
 The algortihm was first deployed in 2018. In 2019, after the first experience, some changes were implemented (Lenoir et al, 2020):
  <li>The integration of new programs into Parcoursup and the systematic requirement of a leaving certificate for applications outside Parcoursup.
  <li>The introduction of stages. Three stages have been introduced: on June 25, July 6 and July 17, at the close of the main phase. Applicants were then asked to confirm their wishes within three days, otherwise they would be deleted by the platform.  This measure aims to avoid dormant wishes.
