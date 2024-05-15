@@ -138,7 +138,7 @@ Regarding the administrative burden, it seems that it has been displaced rather 
 
 <h2>How could Parcoursup be used differently, to achieve more equity?</h2>
 
-![different-types-of-equity](https://github.com/IlseAmeyalli/desktop-tutorial/assets/169658751/06218017-5f40-4f1f-936c-35dd3c4989ee)
+![different-types-of-equity_1](https://github.com/IlseAmeyalli/desktop-tutorial/assets/169658751/f217af8e-c0d2-472f-abb3-34a8e68d21c8)
 
 In the end, Parcousup is only an algorithm, with specific chosen parameters driving certain outcomes. Yet, an algorithm only is an instrumentalisation of a political public action, through technical choices (<a href="https://laviedesidees.fr/Parcoursup-ou-la-selection-par-les-algorithmes">Tiberj, 2021</a>). Parcousup solely reflects the choice of the decision-makers behind its conception; yet, there could be other ways to operate this algorithm, producing different results of higher education admission for students.
 
