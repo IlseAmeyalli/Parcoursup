@@ -19,6 +19,8 @@ This research methodology allowed us to analyse the official government discours
 <p><strong>Stable marriage algorithm</strong> </p>
 Parcoursup is based on the algorithm known as “stable marriage” developed by David Gale and Lloyd Shapley in 1962. It was initially designed to answer the following question: given N men and N women, is it possible to form stable couples, i.e. couples in which no man or woman would prefer each other to their respective spouses? Gale and Shapley have shown that if men and women have complete preferences (i.e. a ranking) for individuals of the individuals of the other sex, then it's always possible to form stable couples. In the algorithm they propose men “propose” and women “dispose”. However, the pairing is not necessarily optimal for those who “dispose” (the women in this example) (Lenoir et al, 2019).
 
+<a href="https://ibb.co/yS3BrtK"><img src="https://i.ibb.co/4dQgHzC/Design-sans-titre.png" alt="Design-sans-titre" border="0"></a>
+
 The Parcoursup platform enables students to apply to more than 23,000 higher education programs.
 Within the framework of a single dossier, students can use a single application to (République Française, 2024):
 consult the full range of post-baccalaureate programs on offer;
@@ -27,7 +29,7 @@ assemble the application, which will then be sent to the programs selected.
 freely formulate your wishes for the programs that interest them;
 receive admission offers and choose the school. </p>
 
-<a href="https://ibb.co/yS3BrtK"><img src="https://i.ibb.co/4dQgHzC/Design-sans-titre.png" alt="Design-sans-titre" border="0"></a>
+
 
 <p><strong>Innovations compared to APB</strong> </p>
 Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):
