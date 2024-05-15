@@ -45,7 +45,7 @@ Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 201
 
 <p><strong>Changes</strong> </p>
 
-![change-management](https://github.com/IlseAmeyalli/desktop-tutorial/assets/169658751/258216a2-74df-417e-a65f-d8f84f2a7679)
+
 
 
 The algortihm was first deployed in 2018. In 2019, after the first experience, some changes were implemented (Lenoir et al, 2020):
